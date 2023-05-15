@@ -600,3 +600,5 @@ An Rmarkdown dashboard template has been provided for you. Open the file
 It has placeholders for code, where you can paste the completed code
 chunks from this document. Pay close attention to the labels of the
 chunks referred to.
+
+YAY I FINISHED MY PROJECT

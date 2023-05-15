@@ -447,3 +447,5 @@ The fct_reorder() function is a useful tool for reordering the levels of a facto
 
 You can turn your plots into a beautiful dashboard with minimal effort. An Rmarkdown dashboard template has been provided for you. Open the file [project-01-explore-babynames-flexdashboard.Rmd](project-01-explore-babynames-flexdashboard.Rmd). It has placeholders for code, where you can paste the completed code chunks from this document. Pay close attention to the labels of the chunks referred to.
 
+YAY I FINISHED MY PROJECT
+
